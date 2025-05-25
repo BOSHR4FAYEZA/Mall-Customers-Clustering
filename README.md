@@ -35,4 +35,4 @@ The dataset contains information about mall customers including:
 - PCA and t-SNE helped visualize high-dimensional data in 2D.
 - Outliers were successfully identified using both Isolation Forest and One-Class SVM.
 
-## 📁 Project Structure
+
